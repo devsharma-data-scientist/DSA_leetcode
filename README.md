@@ -23,9 +23,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
