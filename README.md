@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
