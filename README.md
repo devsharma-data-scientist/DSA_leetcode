@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
