@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
