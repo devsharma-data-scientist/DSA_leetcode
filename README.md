@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0846-hand-of-straights) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0846-hand-of-straights) |
 ## Sliding Window
 |  |
 | ------- |
