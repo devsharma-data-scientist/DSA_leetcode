@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0460-lfu-cache) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0846-hand-of-straights) |
 ## Monotonic Stack
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -250,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -261,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
@@ -274,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
