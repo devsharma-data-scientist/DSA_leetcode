@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0295-find-median-from-data-stream) |
