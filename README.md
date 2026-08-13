@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
