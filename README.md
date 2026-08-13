@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
