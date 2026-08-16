@@ -17,23 +17,19 @@ public:
 
     function<TreeNode*(int, int)> solve = [&](int inStart, int inEnd) -> TreeNode* {
         
-        // No elements
+      
         if (inStart > inEnd)
             return nullptr;
 
-        // First element of preorder is root
         int rootValue = preorder[preIndex++];
         TreeNode* root = new TreeNode(rootValue);
 
-        // Find root in inorder
         int rootIndex = inStart;
         while (inorder[rootIndex] != rootValue)
             rootIndex++;
 
-        // Build left subtree
         root->left = solve(inStart, rootIndex - 1);
 
-        // Build right subtree
         root->right = solve(rootIndex + 1, inEnd);
 
         return root;
