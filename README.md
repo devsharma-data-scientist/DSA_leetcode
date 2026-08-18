@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
