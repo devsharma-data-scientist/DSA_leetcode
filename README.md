@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
