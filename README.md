@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0846-hand-of-straights) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
