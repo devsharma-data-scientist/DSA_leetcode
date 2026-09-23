@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0402-remove-k-digits) |
