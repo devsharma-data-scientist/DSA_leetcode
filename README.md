@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -472,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0547-number-of-provinces) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
