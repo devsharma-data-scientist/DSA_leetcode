@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0149-max-points-on-a-line](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0216-combination-sum-iii) |
@@ -480,4 +483,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
