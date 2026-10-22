@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/1922-count-good-numbers) |
 ## String
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0079-word-search) |
+| [0224-basic-calculator](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/devsharma-data-scientist/DSA_leetcode/tree/master/0402-remove-k-digits) |
